@@ -7,6 +7,7 @@ Facebook Hacking Tools™
 Pas Ekstrak Ada Pilihan Huruf Tekan "A" <br>
 ~# sh install.sh <br>
 ~# sh EFBEH.sh <br>
+<img class="diam" height="280" src="https://www.upload.ee/image/10271374/Screensh
 
 
 
