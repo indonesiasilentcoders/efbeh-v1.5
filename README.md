@@ -2,13 +2,14 @@
 Facebook Hacking Tools™
 
 
-![alt text](https://github.com/indonesiasilentcoders/efbeh-v1.5/blob/master/Screenshot_2019-07-26-02-04-26-584_com.termux-picsay.png)
+![alt text](https://github.com/indonesiasilentcoders/efbeh-v1.5/blob/master/EFBEH.png)
 
 ## Install On Linux
 
 <pre>
 ~# apt install git
 ~# git clone https://github.com/indonesiasilentcoders/efbeh-v1.5
+~# cd efbeh-v1.5
 ~# sh setup.sh
 Pas Ekstrak Ada Pilihan Huruf Tekan "A"
 ~# sh install.sh
